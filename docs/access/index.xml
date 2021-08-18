@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>アクセス on Home</title>
-    <link>https://example.com/access/</link>
+    <link>https://yuya0430.github.io/roller-ski.github.io/access/</link>
     <description>Recent content in アクセス on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <copyright>クレストンホーム杯モリコロパーク</copyright><atom:link href="https://example.com/access/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>クレストンホーム杯モリコロパーク</copyright><atom:link href="https://yuya0430.github.io/roller-ski.github.io/access/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

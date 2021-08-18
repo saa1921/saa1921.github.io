@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "https://yuya0430.github.io/roller-ski.github.io"
 languageCode = "ja-jp"
 theme = "gohugo-theme-ananke"
 themesDir = "./themes"
