@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>連絡 on Home</title>
+    <link>https://example.com/categories/%E9%80%A3%E7%B5%A1/</link>
+    <description>Recent content in 連絡 on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>クレストンホーム杯モリコロパーク</copyright>
+    <lastBuildDate>Fri, 13 Aug 2021 17:50:55 +0900</lastBuildDate><atom:link href="https://example.com/categories/%E9%80%A3%E7%B5%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HPを公開しました！</title>
+      <link>https://example.com/post/example1/</link>
+      <pubDate>Fri, 13 Aug 2021 17:50:55 +0900</pubDate>
+      
+      <guid>https://example.com/post/example1/</guid>
+      <description>目次  本文 チラシ  本文 本日から，クレストンホーム杯モリコロパーク　第一回ローラースキー大会のHPを公開いたします．
+本HPでは，大会要項や申込用紙のほか，大会に関する最新情報なども発信していきますので，参加者の方はチェックしていただけると幸いです．
+チラシ チラシのダウンロードはこちら</description>
+    </item>
+    
+  </channel>
+</rss>

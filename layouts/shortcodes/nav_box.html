@@ -1,0 +1,24 @@
+{{ $page:= .Get "page" }}
+{{ if not $page }}
+  {{ errorf "missing value for param 'page': ％s" .Position }}
+{{ end }}
+{{ $list := .Site.Params.home_list }}
+{{ $ref := "" }}
+{{ if eq $page "about" }}{{ $list = .Site.Params.about_list}}
+{{ end }}
+<nav class="about">
+<ul class="pl0 mr3">
+    {{ range $list }}
+    {{ if eq . "大会要項"}}{{ $ref = "#taikaiyoko" }}
+    {{ else if eq . "申込用紙"}}{{ $ref = "#moushikomi" }}
+    {{ else if eq . "お知らせ"}}{{ $ref = "#oshirase"}}
+    {{ else if eq . "PV"}}{{ $ref = "#pv"}}
+    {{ end }}
+    <li>
+      <a href="{{ $ref }}" title="{{ . }} page">
+        {{ . }}
+      </a>
+    </li>
+    {{ end }}
+</ul>
+</nav>

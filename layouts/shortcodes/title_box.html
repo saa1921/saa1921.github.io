@@ -1,0 +1,12 @@
+{{ $title:= .Get "title" }}
+{{ if not $title }}
+  {{ errorf "missing value for param 'title': ％s" .Position }}
+{{ end }}
+
+<div class="cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
+    <a id={{ $title }} >
+    <h3>
+        {{- .Inner -}}
+    </h3>
+    </a>
+</div>
