@@ -12,7 +12,7 @@
     {{ if eq . "大会要項"}}{{ $ref = "#taikaiyoko" }}
     {{ else if eq . "申込用紙"}}{{ $ref = "#moushikomi" }}
     {{ else if eq . "お知らせ"}}{{ $ref = "#oshirase"}}
-    {{ else if eq . "PV"}}{{ $ref = "#pv"}}
+    {{ else if eq . "コース紹介"}}{{ $ref = "#course"}}
     {{ end }}
     <li>
       <a href="{{ $ref }}" title="{{ . }} page">

@@ -27,7 +27,7 @@ publishDir = "docs"
 
 [params]
   custom_css = ["_mycss.css"]
-  home_list = ["お知らせ", "PV"]
+  home_list = ["お知らせ", "コース紹介"]
   about_list = ["大会要項", "申込用紙"]
   favicon = ""
   site_logo = ""
