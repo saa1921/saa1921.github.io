@@ -1,4 +1,4 @@
-title = "Notre-Dame de Paris"
+title = "クレストンホーム杯モリコロパーク"
 baseURL = "https://yuya0430.github.io"
 languageCode = "ja-jp"
 theme = "gohugo-theme-ananke"
@@ -15,7 +15,7 @@ publishDir = "docs"
 
 [languages]
   [languages.ja]
-    title = "Home"
+    title = "クレストンホーム杯モリコロパーク"
     weight = 1
     contentDir = "content/ja"
   
@@ -36,7 +36,7 @@ publishDir = "docs"
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
   youtube = ""
-  github = "https://github.com/yuya0430/yuya0430.github.io"
+  github = ""
   gitlab = ""
   linkedin = ""
   mastodon = ""
