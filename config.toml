@@ -1,4 +1,4 @@
-title = "クレストンホーム杯モリコロパーク"
+title = "クレストンホーム杯モリコロパーク　ローラースキー大会"
 baseURL = "https://yuya0430.github.io"
 languageCode = "ja-jp"
 theme = "gohugo-theme-ananke"
@@ -15,7 +15,7 @@ publishDir = "docs"
 
 [languages]
   [languages.ja]
-    title = "クレストンホーム杯モリコロパーク"
+    title = "クレストンホーム杯モリコロパーク　ローラースキー大会"
     weight = 1
     contentDir = "content/ja"
   
