@@ -5,35 +5,12 @@ description: "大会要項や申込用紙のダウンロードはこちら"
 featured_image: '/img/title.png'
 ---
 
-<!-- jQuery.jsの読み込み -->
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-
-<!-- スムーズスクロール部分の記述 -->
-<script>
-$(function(){
-   // #で始まるアンカーをクリックした場合に処理
-   $('a[href^=#]').click(function() {
-      // スクロールの速度
-      var speed = 100; // ミリ秒
-      // アンカーの値取得
-      var href= $(this).attr("href");
-      // 移動先を取得
-      var target = $(href == "#" || href == "" ? 'html' : href);
-      // 移動先を数値で取得
-      var position = target.offset().top;
-      // スムーススクロール
-      $('body,html').animate({scrollTop:position}, speed, 'swing');
-      return false;
-   });
-});
-</script>
-
 {{< nav_box page="about" >}}
 
 {{< title_box title="taikaiyoko" >}}
 大会要項
 {{< /title_box >}}
-大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1T0gGiiOVeEdcJvV7h3VfKPafHfoMEhoA "ダウンロード (Google Drive)")
+大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1cGrSakZ45X6GDv-77CUZqbP2THWAgdTm "ダウンロード (Google Drive)")
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
@@ -84,7 +61,7 @@ $(function(){
 申込用紙
 {{< /title_box >}}
 
-申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1T0gGiiOVeEdcJvV7h3VfKPafHfoMEhoA "ダウンロード (Google Drive)")
+申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1BIgTBlKfEAZRaxGjZreXsztQB6aqDC8u "ダウンロード (Google Drive)")
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>

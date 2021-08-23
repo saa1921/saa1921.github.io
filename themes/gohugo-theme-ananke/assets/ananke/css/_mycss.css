@@ -17,6 +17,21 @@
     list-style-type: none!important;
 }
 
+h2.youkoso {
+    position: relative;
+    padding: 1rem .5rem;
+  }
+  
+  h2.youkoso:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    content: '';
+    background-image: linear-gradient(to right, #9be15d 0%, #00ccff 100%);
+  }
+  
 h3 {
     font-size: 24pt;
     padding:5px 10px;  /*内側の余白*/
@@ -38,6 +53,7 @@ nav.about{
     text-align: center;
     border-top: 5px solid #ccc;
 }
+
 nav.about ul{
     margin: 0 ;
     padding: 0 ;
