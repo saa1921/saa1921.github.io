@@ -1,6 +1,6 @@
 ---
 title: "お知らせ"
-description: "ここでは全てのお知らせを見ることができます．"
+description: "お知らせの全リストはこちら"
 weight: -90
 date: 2017-03-02T12:00:00-05:00
 featured_image: '/img/title.png'
