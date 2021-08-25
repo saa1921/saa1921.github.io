@@ -10,7 +10,7 @@ featured_image: '/img/title.png'
 {{< title_box title="taikaiyoko" >}}
 大会要項
 {{< /title_box >}}
-大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1cGrSakZ45X6GDv-77CUZqbP2THWAgdTm "ダウンロード (Google Drive)")
+大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1rQwMkJcIjuVPY9cHsctk8ivrm5DuFCyY "ダウンロード (Google Drive)")
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
@@ -61,7 +61,7 @@ featured_image: '/img/title.png'
 申込用紙
 {{< /title_box >}}
 
-申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1BIgTBlKfEAZRaxGjZreXsztQB6aqDC8u "ダウンロード (Google Drive)")
+申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1XMo7dn0zDxm6OH0i0P_rtr2ZwX7BI2AL "ダウンロード (Google Drive)")
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
