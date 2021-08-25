@@ -3,7 +3,7 @@ title: "HPを公開しました！"
 date: 2021-08-13T17:50:55+09:00
 featured_image: "/img/title.png"
 draft: false
-tags: [ leaflet ]
+tags: [ information, leaflet ]
 categories: [ 連絡 ]
 ---
 
