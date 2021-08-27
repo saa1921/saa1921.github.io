@@ -4,7 +4,7 @@ languageCode = "ja-jp"
 theme = "gohugo-theme-ananke"
 themesDir = "./themes"
 resourceDir = "../resources"
-Copyright = "クレストンホーム杯モリコロパーク"
+Copyright = "愛知県スキー連盟"
 
 DefaultContentLanguage = "ja"
 SectionPagesMenu = "main"
