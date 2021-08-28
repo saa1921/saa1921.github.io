@@ -13,7 +13,7 @@
       <div class="menu-content flex-l items-center">
         {{ partial "i18nlist.html" . }}
         {{ if .Site.Menus.main }}
-          <ul class="pl0 mr3">
+          <ul class="pl0">
             {{ range .Site.Menus.main }}
             <li class="list f5 f4-ns fw4 inline pr3">
               <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
@@ -21,10 +21,10 @@
               </a>
             </li>
             {{ end }}
-            {{/* 追加したいSNSが増えたらコピペして増やすこと．URLはconfig.tomlに貼る */}}
-            <li class="list f5 f4-ns fw4 inline pr3">
+            {{/* 追加したいSNSが増えたらコピペして増やすこと．増やすときは，classに"pr3"を追加すること．URLはconfig.tomlに貼る */}}
+            <li class="list f5 f4-ns fw4 inline">
               {{ with .Param "instagram" }}
-              <a class="hover-white no-underline white-90" href="{{ . }}" title="Instagram link" rel="noopener" aria-label="follow on Instagram——Opens in a new window">
+              <a target="_blank" class="link-transition instagram link hover-white no-underline white-90" href="{{ . }}" title="Instagram link" rel="noopener" aria-label="follow on Instagram——Opens in a new window">
                 Instagram
                 {{- partial "new-window-icon.html" . -}}
               </a>
