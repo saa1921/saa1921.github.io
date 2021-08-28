@@ -19,6 +19,10 @@
   fill: #1da1f2;
 }
 
+.instagram {
+  fill: white;
+}
+
 .instagram:hover {
   fill: #e1306c;
 }

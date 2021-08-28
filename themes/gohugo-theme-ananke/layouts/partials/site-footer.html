@@ -1,8 +1,16 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="foot_fontsize fw4 hover-white no-underline white-70 dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+  <a class="foot_fontsize foot_copy" href="{{ .Site.BaseURL }}" >
     &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
   </a>
-    <div>{{ partial "social-follow.html" . }}</div>
+    {{/* 追加したいSNSが増えたらコピペして増やすこと．URLはconfig */}}
+    <div>
+      {{ with .Param "instagram" }}
+      <a href="{{ . }}" target="_blank" class="link-transition instagram link foot_icon" title="Instagram link" rel="noopener" aria-label="follow on Instagram——Opens in a new window">
+        {{ partial "svg/instagram.svg" }}
+        {{- partial "new-window-icon.html" . -}}
+      </a>
+      {{ end }}
+    </div>
   </div>
 </footer>

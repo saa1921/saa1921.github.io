@@ -10,20 +10,32 @@
     <div class="hamburger-menu">
       <input type="checkbox" id="menu-btn-check">
       <label for="menu-btn-check" class="menu-btn"><span></span></label>
-      <div class="menu-content flex-1 items-center">
+      <div class="menu-content flex-l items-center">
+        {{ partial "i18nlist.html" . }}
         {{ if .Site.Menus.main }}
-        <ul class="pl0 mr3">
-          {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 inline pr3">
-            <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
-              {{ .Name }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
+          <ul class="pl0 mr3">
+            {{ range .Site.Menus.main }}
+            <li class="list f5 f4-ns fw4 inline pr3">
+              <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
+                {{ .Name }}
+              </a>
+            </li>
+            {{ end }}
+            {{/* 追加したいSNSが増えたらコピペして増やすこと．URLはconfig.tomlに貼る */}}
+            <li class="list f5 f4-ns fw4 inline pr3">
+              {{ with .Param "instagram" }}
+              <a class="hover-white no-underline white-90" href="{{ . }}" title="Instagram link" rel="noopener" aria-label="follow on Instagram——Opens in a new window">
+                Instagram
+                {{- partial "new-window-icon.html" . -}}
+              </a>
+              {{ end }}
+            </li>
+          </ul>
         {{ end }}
-      </div>
     </div>
+  </div>
+
+    
     
   </div>
 </nav>
