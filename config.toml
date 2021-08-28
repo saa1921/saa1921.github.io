@@ -26,6 +26,7 @@ publishDir = "docs"
   filename = "sitemap.xml"
 
 [params]
+  env = "production"
   custom_css = ["_mycss.css"]
   home_list = ["お知らせ", "コース紹介"]
   about_list = ["大会要項", "申込用紙"]
