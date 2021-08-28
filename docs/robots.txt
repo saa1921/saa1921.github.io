@@ -1,5 +1,6 @@
 User-agent: *
 # robotstxt.org - if ENV production variable is false robots will be disallowed.
 
-Disallow: /
+allow: /
+sitemap: https://morikoro-roller-ski.com/sitemap.xml
 
