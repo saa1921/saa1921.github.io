@@ -139,6 +139,10 @@
     #menu-btn-check:checked ~ .menu-content {
         left: 0;/*メニューを画面内へ*/
     }
+
+    .my_pr3 {
+        padding-right: 1rem;
+    }
     
     
     .hoge {

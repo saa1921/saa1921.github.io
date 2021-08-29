@@ -1,6 +1,6 @@
 <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white-90 dib title_font">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f5 f4-ns fw2 hover-white no-underline white-90 dib title_font">
       {{ with .Site.Params.site_logo }}
         <img src="{{ . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
       {{ else }}
@@ -22,10 +22,18 @@
             </li>
             {{ end }}
             {{/* 追加したいSNSが増えたらコピペして増やすこと．増やすときは，classに"pr3"を追加すること．URLはconfig.tomlに貼る */}}
-            <li class="list f5 f4-ns fw4 inline">
+            <li class="list f5 f4-ns fw4 inline pr3">
+              {{ with .Param "twitter" }}
+              <a target="_blank" class="link-transition twitter link hover-white no-underline white-90" href="{{ . }}" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
+                公式Twitter
+                {{- partial "new-window-icon.html" . -}}
+              </a>
+              {{ end }}
+            </li>
+            <li class="list f5 f4-ns fw4 inline my_pr3">
               {{ with .Param "instagram" }}
               <a target="_blank" class="link-transition instagram link hover-white no-underline white-90" href="{{ . }}" title="Instagram link" rel="noopener" aria-label="follow on Instagram——Opens in a new window">
-                Instagram
+                公式Instagram
                 {{- partial "new-window-icon.html" . -}}
               </a>
               {{ end }}

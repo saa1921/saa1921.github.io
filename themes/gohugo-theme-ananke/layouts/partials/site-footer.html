@@ -5,6 +5,12 @@
   </a>
     {{/* 追加したいSNSが増えたらコピペして増やすこと．URLはconfig */}}
     <div>
+      {{ with .Param "twitter" }}
+      <a href="{{ . }}" target="_blank" class="link-transition twitter link foot_icon" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
+        {{ partial "svg/twitter.svg" }}
+        {{- partial "new-window-icon.html" . -}}
+      </a>
+      {{ end }}
       {{ with .Param "instagram" }}
       <a href="{{ . }}" target="_blank" class="link-transition instagram link foot_icon" title="Instagram link" rel="noopener" aria-label="follow on Instagram——Opens in a new window">
         {{ partial "svg/instagram.svg" }}
