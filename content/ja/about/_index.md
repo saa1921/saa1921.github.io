@@ -7,6 +7,10 @@ featured_image: '/img/title.png'
 
 {{< nav_box page="about" >}}
 
+※大会要項の電話番号が間違っておりました．
+
+正しくは「052-757-6277」です．
+
 {{< title_box title="taikaiyoko" >}}
 大会要項
 {{< /title_box >}}
@@ -80,7 +84,7 @@ featured_image: '/img/title.png'
   </tr>
   <tr>
     <th>申込先</th>
-    <td class="ippan">〒464-0821　<br>愛知県名古屋市千種区末盛通5-13-3　大雄ビル2F<br>（公社）愛知県スキー連盟　<br>ローラースキー大会事務局<br>TEL: 052-575-6277
+    <td class="ippan">〒464-0821　<br>愛知県名古屋市千種区末盛通5-13-3　大雄ビル2F<br>（公社）愛知県スキー連盟　<br>ローラースキー大会事務局<br>TEL: 052-757-6277
     <br>FAX: 052-761-6877
     <br>E-mail: info@ski-aichi.jp</td>
   </tr>

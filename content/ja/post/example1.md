@@ -1,6 +1,6 @@
 ---
 title: "HPを公開しました！"
-date: 2021-08-13T17:50:55+09:00
+date: 2021-08-28T17:50:55+09:00
 featured_image: "/img/title.png"
 draft: false
 tags: [ information, leaflet ]
