@@ -19,4 +19,4 @@ categories: [ 連絡 ]
 # チラシ {#leaflet}
 ![チラシ](/img/leaflet.png)
 
-チラシのダウンロードは[こちら](https://drive.google.com/uc?export=download&id=160wcYBDoI6l0e3WSFCB_l5cct73OgZ4B "ダウンロード (Google Drive)")
+チラシのダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1QvftwDrb1PdTgo81EP2We0LfuXWkjxrI "ダウンロード (Google Drive)")
