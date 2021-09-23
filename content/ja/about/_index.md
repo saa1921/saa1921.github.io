@@ -7,9 +7,9 @@ featured_image: '/img/title.png'
 
 {{< nav_box page="about" >}}
 
-※大会要項の電話番号が間違っておりました．
+※大会要項の口座番号が間違っておりました．
 
-正しくは「052-757-6277」です．
+正しくは「普通No.0011738」です．
 
 {{< title_box title="taikaiyoko" >}}
 大会要項
@@ -91,7 +91,7 @@ featured_image: '/img/title.png'
   </tr>
   <tr>
     <th>振込先</th>
-    <td class="ippan">東春信用金庫名古屋支店(014）普通No.0011783<br>
+    <td class="ippan">東春信用金庫名古屋支店(014）普通No.0011738<br>
     シヤ）アイチケンスキーレンメイ<br>
     （振込手数料は申込者で負担してください）
     </td>
