@@ -179,19 +179,35 @@
         background-image: linear-gradient(to right, #9be15d 0%, #00ccff 100%);
       }
       
-    h3 {
-        font-size: 18pt;
-        padding:5px 10px;  /*内側の余白*/
-        border-bottom:2px dashed #a61919;  /*下線の太さ 種類 色*/
+      h3.highlight {
+        position: relative;
+        padding: 6px;
+        color: #fff;
         text-align: center;
+        border-radius: 10px;
+        background-image: -webkit-linear-gradient(315deg, #9be15d 0%, #00ccff 100%);
+        background-image: linear-gradient(-225deg, #9be15d 0%, #00ccff 100%);
+    }
+      
+    h3.highlight span {
+        display: block;
+        padding: 1rem 2rem;
+        border-radius: 4px;
+        background: rgba(255, 255, 255, .2);
     }
     
-    h3:before {
+    h3.ski {
+        font-size: 24pt;
+        padding:5px 10px;  /*内側の余白*/
+        border-bottom:2px dashed #a61919;  /*下線の太さ 種類 色*/
+    }
+
+    h3.ski:before {
         content: url(/img/alpen2.png);  /*画像のURL*/
         margin-right:5px;  /*画像右の余白*/
     }
-    
-    h3:after {
+
+    h3.ski:after {
         content: url(/img/nordic2.png);  /*画像のURL*/
         margin-left:5px;  /*画像右の余白*/
     }
@@ -364,18 +380,35 @@
         background-image: linear-gradient(to right, #9be15d 0%, #00ccff 100%);
     }
     
-    h3 {
+    h3.highlight {
+        position: relative;
+        padding: 6px;
+        color: #fff;
+        border-radius: 10px;
+        font-size: 20pt;
+        background-image: -webkit-linear-gradient(315deg, #9be15d 0%, #00ccff 100%);
+        background-image: linear-gradient(-225deg, #9be15d 0%, #00ccff 100%);
+    }
+      
+    h3.highlight span {
+        display: block;
+        padding: 1rem 2rem;
+        border-radius: 4px;
+        background: rgba(255, 255, 255, .2);
+    }
+    
+    h3.ski {
         font-size: 24pt;
         padding:5px 10px;  /*内側の余白*/
         border-bottom:2px dashed #a61919;  /*下線の太さ 種類 色*/
     }
 
-    h3:before {
+    h3.ski:before {
         content: url(/img/alpen2.png);  /*画像のURL*/
         margin-right:5px;  /*画像右の余白*/
     }
 
-    h3:after {
+    h3.ski:after {
         content: url(/img/nordic2.png);  /*画像のURL*/
         margin-left:5px;  /*画像右の余白*/
     }
