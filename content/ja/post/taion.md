@@ -20,5 +20,5 @@ SAA新型コロナウイルス感染防止対策ガイドライン(pdf)のダウ
 
 体調チェック報告用シート(docx)のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1XpBKJSsia2O12HWIxGczRgg9ovJq0rcl "ダウンロード (Google Drive)")
 
-体調チェックシート(期間中)(docx)のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=112448461807529658033 "ダウンロード (Google Drive)")
+体調チェックシート(期間中)(docx)のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1htOvPkLJFc07ZOKO74NiEXJPH0mJiX7T "ダウンロード (Google Drive)")
 
