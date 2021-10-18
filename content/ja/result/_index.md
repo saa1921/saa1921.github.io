@@ -10,5 +10,4 @@ featured_image: '/img/title.png'
 {{< title_box title="taikaiyoko" >}}
 リザルト
 {{< /title_box >}}
-
-大会終了後公開
+ダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1_fbMMJVW6G3aZercw8SoeRApftRKXqh_ "ダウンロード (Google Drive)")
