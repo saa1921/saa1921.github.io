@@ -7,15 +7,11 @@ featured_image: '/img/title.png'
 
 {{< nav_box page="about" >}}
 
-※大会要項の口座番号が間違っておりました．
-
-正しくは「普通No.0011738」です．
-
 {{< title_box title="taikaiyoko" >}}
 大会要項
 {{< /title_box >}}
 
-大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1XwyKgQmyB1XPtyhuDC1RwA86nBglCD9C "ダウンロード (Google Drive)")
+大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1aKWHY9oKc5lirrK9iIkpL2iEUeuB-HK6 "ダウンロード (Google Drive)")
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
@@ -29,7 +25,7 @@ featured_image: '/img/title.png'
   </tr>
   <tr>
     <th>日程</th>
-    <td>令和3年10月17日(日)開催<br>
+    <td>令和4年5月29日(日)開催<br>
     小雨決行
     </td>
   </tr>
@@ -42,6 +38,7 @@ featured_image: '/img/title.png'
         </ul>
     </td>
   </tr>
+  <!--
   <tr>
     <th>特別協賛</th>
     <td><img class="logo center" src="/img/crestn_logo.png" alt="クレストンホームのロゴ"></td>
@@ -52,13 +49,14 @@ featured_image: '/img/title.png'
 中京大学スノーレーシング、花文貸物装飾(株)、<br>ミヤコ・スポーツ(株)、ファイテン(株)</td>
   </tr>
   <tr>
+  -->
     <th>後援</th>
-    <td class="ippan">中日新聞社、日本障害者スキー連盟、<br>愛知県教育委員会、
-長久手市教育委員会</td>
+    <td class="ippan">中日新聞社(予定)、全日本障害者スキー連盟、<br>愛知県(予定)、
+長久手市教育委員会(予定)</td>
   </tr>
   <tr>
     <th>協力</th>
-    <td class="ippan">(一社)日本インラインスケート協会、中電ウィング(株)</td>
+    <td class="ippan">一般社団法人日本インラインスケート協会</td>
   </tr>
 </table>
 
@@ -71,7 +69,7 @@ featured_image: '/img/title.png'
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
     <th>申込締切</th>
-    <td>令和3年9月17日(金) 必着</td>
+    <td>令和4年5月6日(金) 必着</td>
   </tr>
   <tr>
     <th>参加費</th>
@@ -91,8 +89,10 @@ featured_image: '/img/title.png'
   </tr>
   <tr>
     <th>振込先</th>
-    <td class="ippan">東春信用金庫名古屋支店(014）普通No.0011738<br>
-    シヤ）アイチケンスキーレンメイ<br>
+    <td class="ippan">ゆうちょ銀行(208）普通No.1338617<br>
+    （コウシャ）アイチケンスキーレンメイ<br>
+    三菱UFJ銀行　本山支店　普通No.0126245<br>
+    （コウシャ）アイチケンスキーレンメイ<br>
     （振込手数料は申込者で負担してください）
     </td>
   </tr>

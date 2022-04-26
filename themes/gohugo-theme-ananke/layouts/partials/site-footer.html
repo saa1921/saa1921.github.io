@@ -4,6 +4,7 @@
     &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
   </a>
     {{/* 追加したいSNSが増えたらコピペして増やすこと．URLはconfig */}}
+    <!--
     <div>
       {{ with .Param "twitter" }}
       <a href="{{ . }}" target="_blank" class="link-transition twitter link foot_icon" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
@@ -18,5 +19,6 @@
       </a>
       {{ end }}
     </div>
+  -->
   </div>
 </footer>
