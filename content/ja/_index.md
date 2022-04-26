@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 featured_image: '/img/title.png'
-description: 'クレストンホーム杯 公式サイト'
+description: 'モリコロパークローラースキー大会 公式サイト'
 ---
 
 <!-- ここだけ殆どhtmlで書いてしまってます．．．-->
