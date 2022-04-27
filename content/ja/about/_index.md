@@ -63,8 +63,7 @@ featured_image: '/img/title.png'
 {{< title_box title="moushikomi" >}}
 申込用紙
 {{< /title_box >}}
-
-申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=17-7ffYdA8F8k7BN2hoUveQgAq3BCdtcq "ダウンロード (Google Drive)")
+申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1AvQYOfLQarmX4ESj9YRsI_L43ntGGigU "ダウンロード (Google Drive)")
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
@@ -73,8 +72,8 @@ featured_image: '/img/title.png'
   </tr>
   <tr>
     <th>参加費</th>
-    <td>大人: 3,500円/種目<br>
-        小中学生: 1,500円/種目
+    <td>大人: 2,000円/種目<br>
+        小中学生: 1,000円/種目
     </td>
   </tr>
   <tr>
