@@ -12,10 +12,12 @@ description: 'モリコロパークローラースキー大会 公式サイト'
 
 モリコロパークローラースキー大会の HP へようこそ
 
+<!--
 {{< highlight_box title="aiueo" >}}
 ローラーシッティングスキー<br>
 体験会開催決定！！
 {{< /highlight_box >}}
+
 
 {{< image src="img/sitting_ski_2022.png">}}
 
@@ -24,3 +26,5 @@ description: 'モリコロパークローラースキー大会 公式サイト'
 </div>
 
 <p style="text-align:center">詳しくは<a href="/post/sitting_ski_2022/">お知らせ</a>へ</p>
+
+-->
