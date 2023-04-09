@@ -11,7 +11,8 @@ featured_image: '/img/title.png'
 大会要項
 {{< /title_box >}}
 
-大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1aKWHY9oKc5lirrK9iIkpL2iEUeuB-HK6 "ダウンロード (Google Drive)")
+大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1hllQ1wkUO9Ge1Bd8Nr3XMzRJfK7jKB7g "ダウンロード (Google Drive)")
+
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
@@ -25,7 +26,7 @@ featured_image: '/img/title.png'
   </tr>
   <tr>
     <th>日程</th>
-    <td>令和4年5月29日(日)開催<br>
+    <td>令和5年5月21日(日)開催<br>
     小雨決行
     </td>
   </tr>
@@ -33,8 +34,8 @@ featured_image: '/img/title.png'
     <th>大会中止時の対応</th>
     <td class="ippan">
         <ul>
-            <li style="text-align: left;">当日6時までに決し、本HPに掲載</li>
-            <li style="text-align: left;">参加費は必要経費を除いて返金いたします</li>
+            <li style="text-align: left;">当日6時までに決し、本HPと愛知県スキー連盟HPに掲載</li>
+            <li style="text-align: left;">競技当日，悪天候等やむを得ない理由により中止した場合は返金いたしません</li>
         </ul>
     </td>
   </tr>
@@ -51,29 +52,29 @@ featured_image: '/img/title.png'
   <tr>
   -->
     <th>後援</th>
-    <td class="ippan">中日新聞社(予定)、全日本障害者スキー連盟、<br>愛知県(予定)、
-長久手市教育委員会(予定)</td>
+    <td class="ippan">未定</td>
   </tr>
   <tr>
     <th>協力</th>
-    <td class="ippan">一般社団法人日本インラインスケート協会</td>
+    <td class="ippan">未定</td>
   </tr>
 </table>
 
 {{< title_box title="moushikomi" >}}
 申込用紙
 {{< /title_box >}}
-申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1AvQYOfLQarmX4ESj9YRsI_L43ntGGigU "ダウンロード (Google Drive)")
+申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1HvOZnAjO5DNTaVZ2_YdG1BKA3CnClO_Z "ダウンロード (Google Drive)")
+
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
     <th>申込締切</th>
-    <td>令和4年5月6日(金) 必着</td>
+    <td>令和4年5月10日(水) 必着</td>
   </tr>
   <tr>
     <th>参加費</th>
-    <td>大人: 2,000円/種目<br>
-        小中学生: 1,000円/種目
+    <td>大人: 2,200円/種目<br>
+        小中学生: 1,100円/種目
     </td>
   </tr>
   <tr>
@@ -88,11 +89,8 @@ featured_image: '/img/title.png'
   </tr>
   <tr>
     <th>振込先</th>
-    <td class="ippan">ゆうちょ銀行(208）普通No.1338617<br>
-    （コウシャ）アイチケンスキーレンメイ<br>
-    三菱UFJ銀行　本山支店　普通No.0126245<br>
-    （コウシャ）アイチケンスキーレンメイ<br>
-    （振込手数料は申込者で負担してください）
+    <td class="ippan">
+    大会要項をご確認ください
     </td>
   </tr>
 </table>

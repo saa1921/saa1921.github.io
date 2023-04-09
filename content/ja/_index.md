@@ -12,19 +12,29 @@ description: 'モリコロパークローラースキー大会 公式サイト'
 
 モリコロパークローラースキー大会の HP へようこそ
 
-<!--
 {{< highlight_box title="aiueo" >}}
-ローラーシッティングスキー<br>
+パラノルディック<br>
 体験会開催決定！！
 {{< /highlight_box >}}
 
+{{< image src="img/3rd_event/パラノルディックポスター.png">}}
+{{< image src="img/3rd_event/パラノルディックポスター2.png">}}
 
-{{< image src="img/sitting_ski_2022.png">}}
 
 <div class="cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/I8MAywPJSTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p style="text-align:center">詳しくは<a href="/post/sitting_ski_2022/">お知らせ</a>へ</p>
+<p style="text-align:center">詳しくは<a href="/post/sitting_ski_2023may/">お知らせ</a>へ</p>
 
--->
+
+{{< highlight_box title="aiueo" >}}
+車いす体験会<br>
+体験会開催決定！！
+{{< /highlight_box >}}
+
+{{< image src="img/3rd_event/kurumaisu_tennis.png">}}
+
+
+
+<p style="text-align:center">詳しくは<a href="/post/kurumaisu_tennis_2023may/">お知らせ</a>へ</p>
