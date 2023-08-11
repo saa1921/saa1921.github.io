@@ -13,9 +13,11 @@ description: 'モリコロパークローラースキー大会 公式サイト'
 モリコロパークローラースキー大会の HP へようこそ
 
 {{< highlight_box title="aiueo" >}}
-パラノルディック<br>
-体験会開催決定！！
+第4回大会<br>
+10/1(日)に開催決定！！
 {{< /highlight_box >}}
+
+<!--
 
 {{< image src="img/3rd_event/パラノルディックポスター.png">}}
 {{< image src="img/3rd_event/パラノルディックポスター2.png">}}
@@ -28,13 +30,10 @@ description: 'モリコロパークローラースキー大会 公式サイト'
 <p style="text-align:center">詳しくは<a href="/post/sitting_ski_2023may/">お知らせ</a>へ</p>
 
 
-{{< highlight_box title="aiueo" >}}
-車いす体験会<br>
-体験会開催決定！！
-{{< /highlight_box >}}
-
 {{< image src="img/3rd_event/kurumaisu_tennis.png">}}
 
 
 
 <p style="text-align:center">詳しくは<a href="/post/kurumaisu_tennis_2023may/">お知らせ</a>へ</p>
+
+-->
