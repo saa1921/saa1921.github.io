@@ -11,7 +11,7 @@ featured_image: '/img/title.png'
 大会要項
 {{< /title_box >}}
 
-大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1hllQ1wkUO9Ge1Bd8Nr3XMzRJfK7jKB7g "ダウンロード (Google Drive)")
+大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1XG9BJov0fzgxKDOz5Y_-TguuBf1hUE21 "ダウンロード (Google Drive)")
 
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
@@ -26,7 +26,7 @@ featured_image: '/img/title.png'
   </tr>
   <tr>
     <th>日程</th>
-    <td>令和5年5月21日(日)開催<br>
+    <td>令和5年10月1日(日)開催<br>
     小雨決行
     </td>
   </tr>
@@ -50,7 +50,6 @@ featured_image: '/img/title.png'
 中京大学スノーレーシング、花文貸物装飾(株)、<br>ミヤコ・スポーツ(株)、ファイテン(株)</td>
   </tr>
   <tr>
-  -->
     <th>後援</th>
     <td class="ippan">未定</td>
   </tr>
@@ -58,13 +57,14 @@ featured_image: '/img/title.png'
     <th>協力</th>
     <td class="ippan">未定</td>
   </tr>
+  -->
 </table>
 
 {{< title_box title="moushikomi" >}}
-申込用紙
+申込用紙（※最新版ではありません）
 {{< /title_box >}}
 申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1HvOZnAjO5DNTaVZ2_YdG1BKA3CnClO_Z "ダウンロード (Google Drive)")
-
+（※最新版ではありません）
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
