@@ -18,4 +18,4 @@ categories: [ 連絡 ]
 
 皆さまの参加を心よりお待ちしております。
 
-大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1XG9BJov0fzgxKDOz5Y_-TguuBf1hUE21 "ダウンロード (Google Drive)")
+大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1zsjYVUqLvYYBuIOkZ78VLeXP38n9Vlgy "ダウンロード (Google Drive)")

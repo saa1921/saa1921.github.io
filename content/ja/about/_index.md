@@ -11,7 +11,7 @@ featured_image: '/img/title.png'
 大会要項
 {{< /title_box >}}
 
-大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1XG9BJov0fzgxKDOz5Y_-TguuBf1hUE21 "ダウンロード (Google Drive)")
+大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1zsjYVUqLvYYBuIOkZ78VLeXP38n9Vlgy "ダウンロード (Google Drive)")
 
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
@@ -61,15 +61,14 @@ featured_image: '/img/title.png'
 </table>
 
 {{< title_box title="moushikomi" >}}
-申込用紙（※最新版ではありません）
+申込用紙
 {{< /title_box >}}
-申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1HvOZnAjO5DNTaVZ2_YdG1BKA3CnClO_Z "ダウンロード (Google Drive)")
-（※最新版ではありません）
+申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1SZsCpbPRMftiSDGHlU7F3HKpUAi3_9Gm "ダウンロード (Google Drive)")
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
     <th>申込締切</th>
-    <td>令和4年5月10日(水) 必着</td>
+    <td>令和4年9月10日(水) 必着</td>
   </tr>
   <tr>
     <th>参加費</th>
