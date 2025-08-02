@@ -44,12 +44,11 @@ featured_image: '/img/title.png'
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
     <th>注意事項</th>
-    <td class="ippan">愛・地球博記念公園は工事中につき駐車場が少ないので，公共交通機関での来場にご協力ください．</td>
+    <td class="ippan">ジブリパーク開園により混雑が見込まれるため，<br>公共交通機関でのご来場にご協力ください．</td>
   </tr>
   <tr>
     <th>最寄の駐車場</th>
-    <td class="ippan">北駐車場<br>
-    (工事中のため一部利用不可)</td>
+    <td class="ippan">北駐車場</td>
   </tr>
   <tr>
     <th>最寄駅(電車)</th>
