@@ -11,7 +11,8 @@ featured_image: '/img/title.png'
 大会要項
 {{< /title_box >}}
 
-大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1tkXt1MuHO8UEbtldRWjNVKYiWh7ZbN0V "ダウンロード (Google Drive)")
+大会要項のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1xdxLuje4xUBpib4TPepWAXGigct9Wdol "ダウンロード (Google Drive)")
+
 
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
@@ -26,7 +27,7 @@ featured_image: '/img/title.png'
   </tr>
   <tr>
     <th>日程</th>
-    <td>令和6年10月19日(土)開催<br>
+    <td>令和7年10月13日(月 祝日)開催<br>
     小雨決行
     </td>
   </tr>
@@ -64,17 +65,17 @@ featured_image: '/img/title.png'
 {{< title_box title="moushikomi" >}}
 申込用紙
 {{< /title_box >}}
-申込用紙のダウンロードは[こちら](https://drive.google.com/uc?export=download&id=1uAL54xRotnFfcWVltFObTt8eYjdtBZWh "ダウンロード (Google Drive)")
+申込用紙のダウンロードは[こちら(3ページ目)](https://drive.google.com/uc?export=download&id=1xdxLuje4xUBpib4TPepWAXGigct9Wdol "ダウンロード (Google Drive)")
 
 <table class="about cf ph3 ph5-l pv3 pv4-l f4 tc-l measure-wide lh-copy center">
   <tr>
     <th>申込締切</th>
-    <td>令和6年9月27日(金) 必着</td>
+    <td>令和7年9月13日(土) 必着</td>
   </tr>
   <tr>
     <th>参加費</th>
     <td>大人: 3,300円/種目<br>
-        小中学生: 1,700円/種目
+        小中学生: 1,650円/種目
     </td>
   </tr>
   <tr>
